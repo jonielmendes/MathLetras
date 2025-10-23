@@ -22,4 +22,4 @@ O sistema utiliza um Raspberry Pi Pico W e componentes eletrônicos como joystic
 - Raspberry Pi Pico W (Microcontrolador principal)
 - Display OLED 128x64 (I2C) (Interface gráfica do usuário)
 - Matriz de LEDs 5x5 (Exibição de alternativas e feedback visual)
-- Joystick (Navegação no menu e
+- Joystick (Navegação no menu )
